@@ -1,0 +1,25 @@
+{
+  "entry": "server.js",
+  "files": {
+    "pages/admin/allword.js": "pages/admin/allword.js",
+    "pages/auth/login.js": "pages/auth/login.js",
+    "pages/auth/signup.js": "pages/auth/signup.js",
+    "pages/contribute.js": "pages/contribute.js",
+    "pages/index.js": "pages/index.js",
+    "pages/search.js": "pages/search.js",
+    "pages/test.js": "pages/test.js",
+    "pages/test1.js": "pages/test1.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "pages/admin/allword.js": "pages/admin/allword.js.map",
+    "pages/auth/login.js": "pages/auth/login.js.map",
+    "pages/auth/signup.js": "pages/auth/signup.js.map",
+    "pages/contribute.js": "pages/contribute.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/search.js": "pages/search.js.map",
+    "pages/test.js": "pages/test.js.map",
+    "pages/test1.js": "pages/test1.js.map",
+    "server.js": "server.js.map"
+  }
+}
